@@ -1,1 +1,1 @@
-# Patern-recognition-machine-learning-
+# Pattern-recognition-machine-learning-
